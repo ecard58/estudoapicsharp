@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\controllers\\deveventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\controllers\\deveventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\mappers\\deveventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\mappers\\deveventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\models\\deveventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\models\\deveventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\models\\deveventspeakerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\models\\deveventspeakerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\emanuelmartinscardos\\source\\repos\\awesomedevevents\\awesomedevevents.api\\models\\deveventinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6258B9-C6E1-4C63-8447-835959B8D0C8}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\models\\deveventinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevEventsController.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwFwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:15:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Program.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Program.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Program.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:12:33.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevEventProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Mappers\\DevEventProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:09:50.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DevEventSpeaker.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:08:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DevEvent.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:07:27.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevEventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Models\\DevEventViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:01:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DevEventSpeakerInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Models\\DevEventSpeakerInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:00:41.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DevEventInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\source\\repos\\AwesomeDevEvents\\AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Models\\DevEventInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:00:13.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
